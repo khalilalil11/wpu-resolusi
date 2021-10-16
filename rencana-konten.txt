@@ -1,7 +1,7 @@
 Rencana Konten
 
 -Membuat Company Profile
-*project bulanan
+*Project PPN
 -Membuat App Vigenesia
 *menggunakan flutter
 *bahasa dart
