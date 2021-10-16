@@ -2,3 +2,5 @@ Rencana Konten
 
 -Membuat Company Profile
 -Membuat App Vigenesia
+*menggunakan flutter
+*bahasa dart
